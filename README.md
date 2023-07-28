@@ -16,9 +16,9 @@ A tag `table` permite organizar dados em linhas e colunas.
 
 5. Atributos e propriedades:
 	* `border`: Define a espessura da borda da tabela.
-	* `cellspacing`: Define o espaço entre as células da 		tabela.
-	* `cellpadding`: Define o espaço entre o conteúdo da 		célula e a borda da célula.
-	* `summary`: é usado para fornecer uma breve descrição 		ou resumo da tabela, descrevendo o conteúdo ou 		a finalidade da tabela de forma concisa.
+	* `cellspacing`: Define o espaço entre as células da tabela.
+	* `cellpadding`: Define o espaço entre o conteúdo da célula e a borda da célula.
+	* `summary`: é usado para fornecer uma breve descrição ou resumo da tabela, descrevendo o conteúdo ou a finalidade da tabela de forma concisa.
   * `rowspan`: é usada para mesclar uma célula verticalmente em várias linhas. Você define o valor de `rowspan` para indicar quantas linhas a célula deve abranger.
   * `colspan`: é usada para mesclar uma célula horizontalmente em várias colunas. Você define o valor de `colspan` para indicar quantas colunas a célula deve abranger.
 
